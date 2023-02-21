@@ -233,7 +233,7 @@ SSAFY 8기 2학기 공통프로젝트 - 너나들이
 
 ---
 
-![팀원_소개](/uploads/1deaa117c61acf76ce723f404cdf1efe/팀원_소개.png)
+![팀원_소개](./img/teammate.png)
 
 ## 🦒 너나들이 서비스 화면
 
