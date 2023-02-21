@@ -6,9 +6,7 @@
 
 ## 소개 영상
 
-<video src='./img/nnde.mp4' width=180/>
-
-</br>
+CHECK HERE >>> `/img/nnde.mp4` <<<
 
 ## 🌊 프로젝트 진행 기간
 
